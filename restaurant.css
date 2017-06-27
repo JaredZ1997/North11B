@@ -13,8 +13,8 @@ footer {
 header{
     position:fixed;
     Color:#f55667;
-    border-bottom: 3px solid #f55667
     Font-size:1rem;
+    font-style: italic;
     text-align:center;
     width:100%;
 }
@@ -29,4 +29,19 @@ section{
     color:black;
     border:solid black 1px;
     text-align: center;
+}
+body{
+    background-color:tan;
+}
+a{
+text-decoration: none;
+background-color: red;
+font-family:cursive;
+}
+a: visited{
+    color: red;
+}
+a:active{
+    font-weight: bold;
+    text-decoration:normal;
 }
