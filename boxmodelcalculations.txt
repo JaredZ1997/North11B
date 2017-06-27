@@ -1,0 +1,4 @@
+height:150px
+width:400px
+Browser width:400+40+20+2=462px
+Browser Height:150+40+2+20=212px
