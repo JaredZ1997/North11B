@@ -1,0 +1,12 @@
+@import url(albumpagev4.html);
+ul {
+    font-style: italic;
+}
+div.title
+{font-style: italic;}
+#album {
+  background: url(http://media2.picsearch.com/is?36R7PTRh1llyy416uFYwlFodpRiiPWHF0Fu6gBx83Vo&height=299) no-repeat;
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  
