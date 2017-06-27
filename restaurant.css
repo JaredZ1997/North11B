@@ -1,26 +1,32 @@
+
 footer {
   position: fixed;
   bottom: 0px;
   background-color: white;
   border-top: 3px solid #f67c89;
   color: #f55667;
-  font-size: 1.15rem;
-  line-height: 0.9rem;
+  font-size: 1rem;
+  line-height: 0.4rem;
   text-align: center;
   width: 100%;
 }
 header{
-    position: fixed;
-    color: red;
-    font-family: Cursive;
-    text-align: center;
-    border-bottom: 3px solid red;
-    width:100%
-
-}
-nav{
     position:fixed;
+    Color:#f55667;
+    border-bottom: 3px solid #f55667
+    Font-size:1rem;
+    text-align:center;
+    width:100%;
+}
+
+div.img{
+    background-image: url(http://oakdallas.com/workspace/assets/img/content/oak-logo-greyRetina.png);
+    background-position-x: center;
+    background-image-y:bottom;
+    background-repeat:no-repeat;
+}
+section{
     color:black;
+    border:solid black 1px;
     text-align: center;
-    border-bottom: 2px dashed black;
 }
