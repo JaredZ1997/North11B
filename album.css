@@ -20,9 +20,12 @@ font-family:cursive;
 tbody tr:nth-child(odd){
     background-color:lightgray
 }
-tbody td:nth-child(even){
-    background-color: lightgray
+tbody tr:nth-child(even){
+    background-color:lightcoral
 }
 tr{
     font-style: italic;
+}
+body{
+    background-color:teal;
 }
