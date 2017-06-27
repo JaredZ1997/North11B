@@ -9,4 +9,20 @@ div.title
   margin: 0 auto;
   height: 400px;
   width: 400px;
-  
+}
+
+
+a:hover{
+text-decoration: none;
+background-color: green;
+font-family:cursive;
+}
+tbody tr:nth-child(odd){
+    background-color:lightgray
+}
+tbody td:nth-child(even){
+    background-color: lightgray
+}
+tr{
+    font-style: italic;
+}
