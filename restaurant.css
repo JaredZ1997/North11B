@@ -45,3 +45,18 @@ a:active{
     font-weight: bold;
     text-decoration:normal;
 }
+.body {
+  background-color: #333333;
+}
+
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 50px;
+}
